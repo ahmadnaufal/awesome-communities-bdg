@@ -97,6 +97,15 @@ Tech Stack: NodeJS & MongoDB \
 Alamat: Jl. Bukit Pakar Timur IV Kav. B1, Ciburial, Cimenyan, Ciburial \
 Narahubung: [Anshorimuslim Syuhada](https://twitter.com/ans4175)
 
+<img src="https://avatars3.githubusercontent.com/u/1088949?s=200&v=4" height="128px" width="128px" align="left" alt="" />
+
+**Bukalapak** \
+Situs: https://www.bukalapak.com/ \
+Bidang: E-Commerce \
+Tech Stack: Ruby, Golang, Elixir, Vue \
+Alamat: Jl. Ir H. Juanda (Dago) No. 94, Lebakgede, Coblong \
+Narahubung: [Ahmad Naufal Farhan](https://t.me/fahmadnaufal)
+
 <br><br>
 Silakan [berkontribusi](CONTRIBUTING.md) dengan menambahkan startup lainnya!
 
